@@ -9,10 +9,10 @@ defmodule Cards do
   ## Examples
 
       iex> Cards.hello()
-      :world
+      "hi there"
 
   """
   def hello do
-    :world
+    "hi there"
   end
 end
